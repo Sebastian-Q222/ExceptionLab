@@ -8,8 +8,8 @@
  * This file contains the function declarations (prototypes) for an
  * overloaded 'calculateArea' function and a 'calculateCircleArea' function.
  *
- * @author [Your Name Here]
- * @date [Current Date]
+ * @author [Sebastian Quirarte]
+ * @date [11/12/25]
  * @version 1.0
  */
 //this is an alternative method of preventing multiple compile attempts on this file
@@ -44,3 +44,4 @@ double calculateArea(double length, double width);
  * @throws std::invalid_argument if the radius is zero or negative.
  */
 double calculateCircleArea(double radius);
+
